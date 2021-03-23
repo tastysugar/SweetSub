@@ -41,7 +41,7 @@ SweetSub
 | Children of the Sea                   | 海兽的孩子              | 海獣の子供                             | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Children%20of%20the%20Sea) |
 | Made in Abyss - Dawn of the Deep Soul | 来自深渊 深魂之黎明     | 劇場版　メイドインアビス　深き魂の黎明 | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Made%20in%20Abyss%20Dawn%20of%20the%20Deep%20Soul) |
 | Happy-Go-Lucky Days                   | 顺其自然的日子          | どうにかなる日々                       | [WEB 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Happy-Go-Lucky%20Days) |
-| Umibe no Etranger                     | 海边的异邦人            | 海辺のエトランゼ                       | [WEB 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Umibe%20no%20Etranger) |
+| Umibe no Etranger                     | 海边的异邦人            | 海辺のエトランゼ                       | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Umibe%20no%20Etranger) |
 
 
 
