@@ -16,12 +16,12 @@ SweetSub
 | Sarazanmai                                         |                           | さらざんまい                             | 11 集 [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Sarazanmai) |
 | Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝 | 13 集正片 + 魔法报告SP [BD 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Magia%20Record) |
 | ID: INVADED                                        |                           | イド：インヴェイデッド                   | 13 集 [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/ID%20INVADED) |
-| Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | 23 集 [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/GREAT%20PRETENDER) |
+| Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | 23 集 [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/GREAT%20PRETENDER)（未完） |
 | Akudama Drive                                      | 恶棍 DRIVE                | アクダマドライブ                         | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Akudama%20Drive) （已弃坑） |
-| Horimiya                                           | 堀与宫村                  | ホリミヤ                                 | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Horimiya) |
-| Wonder Egg Priority                                | 奇蛋物语                  | ワンダーエッグ・プライオリティ           | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Wonder%20Egg%20Priority) |
-| WIXOSS DIVA(A)LIVE                                 |                           |                                          | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/WIXOSS) |
-| VLADLOVE                                           |                           | ぶらどらぶ                               | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/VLADLOVE) |
+| Horimiya                                           | 堀与宫村                  | ホリミヤ                                 | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Horimiya)（未完） |
+| Wonder Egg Priority                                | 奇蛋物语                  | ワンダーエッグ・プライオリティ           | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Wonder%20Egg%20Priority)（未完） |
+| WIXOSS DIVA(A)LIVE                                 |                           |                                          | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/WIXOSS)（未完） |
+| VLADLOVE                                           |                           | ぶらどらぶ                               | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/VLADLOVE)（未完） |
 
 
 
@@ -40,7 +40,7 @@ SweetSub
 | PROMARE                               | 普罗米亚                | プロメア                               | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Promare) |
 | Children of the Sea                   | 海兽的孩子              | 海獣の子供                             | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Children%20of%20the%20Sea) |
 | Made in Abyss - Dawn of the Deep Soul | 来自深渊 深魂之黎明     | 劇場版　メイドインアビス　深き魂の黎明 | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Made%20in%20Abyss%20Dawn%20of%20the%20Deep%20Soul) |
-| Happy-Go-Lucky Days                   | 顺其自然的日子          | どうにかなる日々                       | [WEB 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Happy-Go-Lucky%20Days) |
+| Happy-Go-Lucky Days                   | 顺其自然的日子          | どうにかなる日々                       | [WEB 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Happy-Go-Lucky%20Days)（未完） |
 | Umibe no Etranger                     | 海边的异邦人            | 海辺のエトランゼ                       | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Umibe%20no%20Etranger) |
 
 
@@ -85,11 +85,11 @@ SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://cr
 
   - 在转载和使用时，明确清晰地指出是 SweetSub 的字幕（不要使用比发布帖正文更小的字体），同时保留在字幕文件中的字幕制作人员信息。
   - 例子 1：字幕由 SweetSub 提供。
-  - 例子 2：字幕源自 SweetSub，经调轴后内嵌在视频里。
+  - 例子 2：字幕源自 SweetSub，经调轴后内封在视频里。
 
-- 连载中
+- 未完
 
-  - 在本页面标注了“**连载中**”的动画字幕是半成品。这些字幕将会在连载结束、合集的时候重新精校，如果要转载、使用连载中的字幕。请务必注意这一点。
+  - 在本页面标注了“**未完**”的动画字幕是半成品。这些字幕将会在连载结束、合集、或者是 BD 发布后重新精校。如果要转载、使用未完成的字幕。请务必注意这一点。
 
 - 调整时间轴
 
@@ -103,17 +103,36 @@ SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://cr
   - 如果发现字幕有错误，想要修改，请通过 [telegram](https://t.me/tastysugar) 联系我，或者发 [issue](https://github.com/tastysugar/SweetSub-source/issues)。
 
 
-- 压制组可以在署名、非商业使用的情况下，随意附带本组的字幕，并且自行调整时间轴和画面字匹配片源发布。但是请同样采用外挂字幕的形式共享。如果要以内嵌、内挂/内封的形式分享，请附带上修改过的外挂字幕源文件。
+- 压制组可以在署名、非商业使用的情况下，随意附带本组的字幕，并且自行调整时间轴和画面字匹配片源发布。可以参见下面的用例，如果仍有疑问，欢迎联系我。
 
 
-- 除了调整时间轴以外的修改请不要对外公开发布，留着自己私下使用就好。
+- 如果对字幕做了协议所允许之外的修改，请不要对外公开发布，留着自己私下使用就好。
 
+
+###### 用例
+
+允许的行为：
+- 转载分享字幕文件。
+- 转载分享 SweetSub 发布的一切成品，外挂、内嵌、或内挂视频。
+- 以外挂字幕文件的形式，和你自己的视频文件一起发布。
+- 把 SweetSub 的字幕文件以原本的形式混流进你自己的视频文件一起发布。
+- 在进行以上行为时，调整字幕的时间轴以匹配视频文件。
+- 在进行以上行为时，对字幕进行 crop 操作以匹配视频文件的黑边。
+
+以下行为默认禁止，但如有需求请先联系我：
+- 分享经过了除调整时间轴和 crop 以外的修改后的字幕文件。
+- 将字幕转换形式分享，例：转换成 SRT 格式、转换成图形字幕、制作外挂结构等。
+- 将字幕压制进视频中，以内嵌的形式分享。
+
+以下行为严格禁止：
+- 把字幕用于商业和盈利目的。
+- 在转载后不署名，或是宣称该字幕文件是由其他人物或团体所做。
 
 
 ###### 其它说明
 
-- 之前有人把本组的双语字幕作品改成方正字体压制传到 B 站，小字错位就不说了，那日文的假名是真的太丢人。甚至有些 UP 主还出现过不安装附带的字体包，也不自己指定字体，任由字体 Fallback 到宋体的情况。因此，**禁止**擅自把本组的作品上传 B 站，本组作品将通过 B 站 UP 主[祜生](https://space.bilibili.com/3951826#/)发布。
-- 如果有什么特殊需求想要在以上规则允许的情况下以外使用、修改、发布字幕的，请通过 [telegram](https://t.me/tastysugar) 联系我，或者也可以发 issue。欢迎与我商议。
-- 以上规则自 2018 年 4 月 4 日起适用。
+- 之前有人把本组的双语字幕作品改成方正字体压制传到 B 站，小字错位，而且方正的日文假名实在是过于丢人。甚至有些 UP 主还出现过不安装附带的字体包，也不自己指定字体，任由字体 Fallback 到宋体的情况。因此，**禁止**擅自把本组的作品上传 B 站，本组作品将通过 B 站 UP 主[祜生](https://space.bilibili.com/3951826#/)发布。
+- 如果有什么特殊需求想要在以上规则以外使用、修改、发布字幕的，请通过 [telegram](https://t.me/tastysugar) 联系我，或者也可以发 issue。欢迎与我商议。
+- 以上规则自 2021 年 3 月 26 日起适用。
 
 
