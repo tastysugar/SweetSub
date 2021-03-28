@@ -1,6 +1,6 @@
 SweetSub
 
-![](logo.png)  
+![](logo.jpg)  
 
 欢迎关注 SweetSub 的 [telegram 频道](https://t.me/SweetSub)
 
