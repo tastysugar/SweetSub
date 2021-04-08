@@ -22,6 +22,7 @@ SweetSub
 | Wonder Egg Priority                                | 奇蛋物语                  | ワンダーエッグ・プライオリティ           | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Wonder%20Egg%20Priority)（未完） |
 | WIXOSS DIVA(A)LIVE                                 |                           |                                          | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/WIXOSS)（未完） |
 | VLADLOVE                                           |                           | ぶらどらぶ                               | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/VLADLOVE)（未完） |
+| Super Cub                                          | 本田小狼与我              | スーパーカブ                             | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Super%20Cub)（未完） |
 
 
 
