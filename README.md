@@ -23,6 +23,7 @@ SweetSub
 | WIXOSS DIVA(A)LIVE                                 |                           |                                          | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/WIXOSS)（未完） |
 | VLADLOVE                                           |                           | ぶらどらぶ                               | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/VLADLOVE)（未完） |
 | Super Cub                                          | 本田小狼与我              | スーパーカブ                             | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Super%20Cub)（未完） |
+| Bishounen Tanteidan                                | 美少年侦探团              | 美少年探偵団                             | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Bishounen%20Tanteidan)（未完） |
 
 
 
