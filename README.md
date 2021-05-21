@@ -42,7 +42,7 @@ SweetSub
 | PROMARE                               | 普罗米亚                | プロメア                               | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Promare) |
 | Children of the Sea                   | 海兽的孩子              | 海獣の子供                             | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Children%20of%20the%20Sea) |
 | Made in Abyss - Dawn of the Deep Soul | 来自深渊 深魂之黎明     | 劇場版　メイドインアビス　深き魂の黎明 | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Made%20in%20Abyss%20Dawn%20of%20the%20Deep%20Soul) |
-| Happy-Go-Lucky Days                   | 顺其自然的日子          | どうにかなる日々                       | [WEB 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Happy-Go-Lucky%20Days)（未完） |
+| Happy-Go-Lucky Days                   | 顺其自然的日子          | どうにかなる日々                       | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Happy-Go-Lucky%20Days) |
 | Umibe no Etranger                     | 海边的异邦人            | 海辺のエトランゼ                       | [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Umibe%20no%20Etranger) |
 
 
@@ -138,5 +138,4 @@ SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://cr
 - 禁止擅自把本组的作品上传 B 站，本组作品将通过 B 站 UP 主[祜生](https://space.bilibili.com/3951826#/)发布。
 - 如果有什么特殊需求想要在以上规则以外使用、修改、发布字幕的，请通过 [telegram](https://t.me/tastysugar) 联系我，或者也可以发 issue。欢迎与我商议。
 - 以上规则自 2021 年 3 月 27 日起适用。
-
 
